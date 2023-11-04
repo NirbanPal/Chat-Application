@@ -3,7 +3,7 @@
 <P>Users have to register himself atfirst. Then there are also some features like login, logout, create room, add user, Chat in group etc</P>
 
 **Tech used->**
-<p> HTML , CSS, JAVASCRIPT, JQUERY, AJAX, DJANGO, PYTHON, MYSQL, DJANGO CHANNELS, CHANNEL LAYER, SOCKETS, UVICORN(AS ASGI SERVER)</p>
+<p> HTML , CSS, TAILWIND CSS, JAVASCRIPT, JQUERY, AJAX, DJANGO, PYTHON, MYSQL, DJANGO CHANNELS, CHANNEL LAYER, SOCKETS, UVICORN(AS ASGI SERVER)</p>
 
 **Setup this project**
 1. Clone this git repo->
