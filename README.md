@@ -1,5 +1,5 @@
 # Chat-Application
-<p>This is a chat application. Here we can create groups and add users and users can add himself to that group and every can chat with each other. A notification will also be send if there is any activity in that group.</p>
+<p>This is a real-time chat application. Here we can create groups and add users and users can add himself to that group and every can chat with each other. A notification will also be send if there is any activity in that group.</p>
 <P>Users have to register himself atfirst. Then there are also some features like login, logout, create room, add user, Chat in group etc</P>
 
 **Tech used->**
